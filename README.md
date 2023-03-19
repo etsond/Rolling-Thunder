@@ -1,5 +1,5 @@
-# SEE ME ROLL
-AJavaScript program tutorial that simulates a two-player dice game with some added tweaks. The program generates a random number between 1 and 6 for each player, and the player with the highest number wins the game. The program displays the result of each player's roll, as well as the overall winner of the game.
+# Rolling Thunder
+A JavaScript program tutorial that simulates a two-player dice game with some added tweaks. The program generates a random number between 1 and 6 for each player, and the player with the highest number wins the game. The program displays the result of each player's roll, as well as the overall winner of the game.
 
 ## Installation
 To run this program, you can simply download or clone this repository to your local machine.
